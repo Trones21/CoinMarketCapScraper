@@ -59,7 +59,6 @@
   <ItemGroup>
     <Compile Include="Coin.cs" />
     <Compile Include="CoinDetails.cs" />
-    <Compile Include="EmailAlerts.cs" />
     <Compile Include="EmailSender.cs" />
     <Compile Include="Migrations\201812121517558_initial-create.cs" />
     <Compile Include="Migrations\201812121517558_initial-create.Designer.cs">
